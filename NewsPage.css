@@ -1,0 +1,42 @@
+.image {
+    background-image: url('newspaper-with-word-gargous-it_421632-33307.avif');
+    width: 670px;
+    height: 400px;
+    position: relative;
+}
+
+.NewsLine {
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 50px;
+    width: 51%;
+    box-sizing: border-box;
+    font-size: 18px;
+    
+   
+}
+.NewsLine h2{
+    color: #323f4b;
+    
+}
+.NewsLine p,h4{
+    color: #7b8794;
+}
+.button-view{
+    width: 120px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 15px;
+    background-color: rgb(46, 40, 40);
+    color: white;
+    font-size: 15px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
